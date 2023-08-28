@@ -1,0 +1,2 @@
+# SQE-Module-8-public
+LEARNING GIT AND GITHUB
