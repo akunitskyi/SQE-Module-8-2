@@ -1,0 +1,8 @@
+# ignores all .db files
+.db
+# ignores all .log files
+.log
+#folders with names ‘target’ , ‘bin’ etc.
+target/
+bin/
+
